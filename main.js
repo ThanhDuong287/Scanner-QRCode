@@ -38,3 +38,4 @@ copyBtn.addEventListener("click", () => {
 
 form.addEventListener("click", () => fileInput.click());
 closeBtn.addEventListener("click", () => wrapper.classList.remove("active"));
+//fdfgjkdfhjgjkdfhjk
